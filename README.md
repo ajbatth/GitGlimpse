@@ -1,5 +1,5 @@
 # GitGlimpse
-![GitGlimpse](assets/images/appScreenshot.png)
+![GitGlimpse](./assets/images/appScreenshot.PNG)
 
 This is a web application that allows users to retrieve information about GitHub users by entering their GitHub username. The app provides details such as the user's name, avatar, bio, number of followers, number of followings, number of repositories, location, Twitter profile, and portfolio link.
 
